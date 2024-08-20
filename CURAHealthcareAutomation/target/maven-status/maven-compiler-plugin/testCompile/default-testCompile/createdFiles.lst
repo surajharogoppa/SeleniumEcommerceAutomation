@@ -1,0 +1,4 @@
+com\cura\hooks\Hooks.class
+com\cura\runners\TestRunner.class
+com\cura\stepdefinitions\LoginStep.class
+com\cura\stepdefinitions\AppointmentFormFilling.class

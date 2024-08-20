@@ -1,0 +1,6 @@
+com\cura\pageobjects\HistoryPage.class
+com\cura\pageobjects\ProfilePage.class
+com\cura\pageobjects\LoginPage.class
+com\cura\pageobjects\TestBrowserLaunch.class
+com\cura\pageobjects\HomePage.class
+com\cura\pageobjects\BasePage.class
