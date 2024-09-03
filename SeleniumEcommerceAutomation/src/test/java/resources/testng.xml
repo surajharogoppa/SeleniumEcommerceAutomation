@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumEcommerceAutomation"  >
+    <test name="Functional Tests" >
+        <classes>
+            <class name="tests.LoginTest" />
+            <class name="tests.FunctionalTest" />
+            <class name="tests.UITest" />
+            <class name="tests.FormValidationTest" />
+        </classes>
+    </test>
+</suite>
